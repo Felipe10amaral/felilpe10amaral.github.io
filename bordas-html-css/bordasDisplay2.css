@@ -1,0 +1,22 @@
+li {
+	background-color: grey;  		/* cor do botão */
+	text-align: center;				/* alinhamento do texto */
+	font-size: 28px;    			/* tamanho da fonte */
+	display: inline; 				/* botões na horizontal */
+	list-style: none;				/* zerar marcações de link */
+	padding: 15px;      			/* preenchimento dos botões */
+	margin: 5px;					/* margem para que os botões não fiquem encostados */
+	
+	
+
+
+	
+}
+
+ul li:hover{
+	background: linear-gradient(grey,white,grey);  /* efeito de tres cores quando o mouse esta sobre o botão */
+}
+
+a {
+	text-decoration: none;   /*remover sublinhado do link */
+}

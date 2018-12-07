@@ -1,0 +1,23 @@
+li {
+	background-color: gray;
+	
+	text-align: center;
+	font-size: 28px;
+	display: block;
+	
+	 
+	list-style: none;   /* zerar todos elementos ( bolinha da lista) */
+	padding:15px;           
+	margin-bottom: 10px;
+	width: 176px;
+	
+	
+}
+
+ul li:hover{
+	background: linear-gradient(grey,white,grey);   /* 3 cores nos botoes */
+}
+
+a {
+	text-decoration: none;   /*remover sublinhado do link */
+}
