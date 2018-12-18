@@ -197,6 +197,8 @@ ul li:hover ul li{
   background-color: black;
   width: 28%;
   min-width: 250px;
+  opacity:.8;
+  position:fixed;
   /*float: right;*/
 }
 
